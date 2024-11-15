@@ -46,7 +46,7 @@ Step 6:Close the Android project.
 ## Program:
  ```
 Program to Develop an application that uses Font Size using Android Studio .
-Developed by: PRAVEEN V
+Developed by: Praveen V
 RegisterNumber:212222040121
 ```
 
@@ -128,9 +128,15 @@ public class MainActivity extends AppCompatActivity {
 
 ~~~
 ## Output:
-![233335826-9b2098b4-3c60-450a-99b0-93a270dcfe23](https://user-images.githubusercontent.com/94184828/233336963-7b6effc9-ce45-4a94-9d00-2b4056ffe1c7.png)
+<img src="https://github.com/user-attachments/assets/8abeb7f7-0ffc-4d30-ae46-07a1327cfd9b" width="200">
 
-![image1](https://user-images.githubusercontent.com/94165168/235467204-c3bbdd37-9e36-4a70-9e3c-cae668b38915.jpg)
+
+
+<img src="https://github.com/user-attachments/assets/73caca94-3a5d-4562-9151-a8dd99241341"  width="200">
+
+
+
+<img src="https://github.com/user-attachments/assets/eee70263-79e3-4a2b-a918-f901984b53e8"  width="200">
 
 
 ## Result:
